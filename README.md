@@ -1,33 +1,46 @@
-# 📂 Projetos-HTML (Etec)
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>  Mini Projetos HTML e CSS <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 
-**Repositório dedicado aos projetos completos de HTML e CSS desenvolvidos durante o curso na Etec.**  
+Repositório dedicado a projetos práticos de **HTML** e **CSS**, criados para aprimorar habilidades em desenvolvimento front-end.  
 
-Aqui estão armazenados todos os trabalhos, exercícios e projetos criados como parte do aprendizado em **Desenvolvimento Web**. Cada pasta contém um projeto funcional, desde sites estáticos até layouts responsivos, seguindo as melhores práticas de estruturação e estilização.
+Aqui você encontrará diversos projetos funcionais, desde páginas estáticas até layouts responsivos, todos seguindo as melhores práticas de **semântica HTML** e **estilização moderna com CSS**.  
 
-## ✨ Conteúdo do Repositório
-✔ **Projetos completos** (landing pages, portfólios, formulários, etc.)  
-✔ **Códigos organizados** por tema ou módulo do curso  
-✔ **HTML semântico** e **CSS moderno** (Flexbox, Grid, animações)  
-✔ **Práticas de responsividade** (Mobile First, Media Queries)  
+---  
 
-## 🎯 Objetivo
-- Centralizar todo o material desenvolvido na Etec  
-- Facilitar revisões e consultas futuras  
-- Demonstrar evolução no aprendizado de front-end  
+## ✨ Conteúdo do Repositório  
 
-📌 **Observação:** Alguns projetos podem conter JavaScript básico para interatividade.
+✔ **Projetos completos** (landing pages, portfólios, formulários etc.)  
+✔ **Códigos organizados** por tema ou complexidade  
+✔ **Técnicas modernas** (Flexbox, Grid, animações CSS)  
+✔ **Responsividade** (Mobile First, Media Queries)  
 
----
+---  
 
-## 🛠 Tecnologias Utilizadas
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-</div>
+## 🎯 Objetivo  
 
----
+- Centralizar projetos para estudo e consulta  
+- Demonstrar evolução no desenvolvimento web  
+- Servir como referência para práticas de front-end  
 
-## 📌 Como Usar
-1. Clone o repositório:
-```bash
-git clone https://github.com/Filiple15/Projetos-HTML-Etec.git
+---  
+
+## 📌 Observação  
+
+Alguns projetos podem incluir **JavaScript básico** para interatividade.  
+
+---  
+
+## 🛠 Tecnologias Utilizadas  
+ 
+- **HTML5** (estrutura)  
+- **CSS** (estilização mínima)   
+- **JavaScript** (interatividade)
+
+---  
+
+## 📌 Como Usar  
+
+1. **Clone o repositório**:  
+   ```bash
+   git clone https://github.com/seu-usuario/mini-projetos-html-css.git
+   ```  
+2. Explore as pastas e abra os projetos no navegador.  
